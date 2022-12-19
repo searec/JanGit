@@ -1,0 +1,2 @@
+[alias]
+	checkin = !git add . && git commit
